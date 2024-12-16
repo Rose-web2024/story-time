@@ -74,4 +74,5 @@ Visualizations and dashboards
 Feel free to explore my repositories, where I will be sharing my projects. If you have any questions or feedback, don’t hesitate to reach out!
 
 📧 Email: rosenkwelle31@gmail.com.
+LinkedIn: linkedin.com/in/rose-n-734865306.
 
